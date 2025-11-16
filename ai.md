@@ -131,3 +131,7 @@ X = джим
 Среда SWISH
 
 https://swish.swi-prolog.org/
+
+https://swish.swi-prolog.org/p/PnIBniJK.pl
+
+https://swish.swi-prolog.org/p/vOoqIadg.pl
