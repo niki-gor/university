@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LastChar {
+public class Task12LastChar {
     public static void main() {
         Scanner scanner = new Scanner(System.in);
 
